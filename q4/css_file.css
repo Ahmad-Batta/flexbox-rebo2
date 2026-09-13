@@ -1,0 +1,16 @@
+.container{
+    display:flex;
+    justify-content: center;
+ 
+
+
+}
+
+.card{
+    
+    background-color: dodgerblue;
+    width:170px;
+    height:270px;
+    border: blue solid 3px ;
+    border-radius: 5px;
+}

@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;       
+    justify-content:center;
+    gap: 15px;            
+    width: 450px;          
+}
+
+.box {
+    background-color: #457b9d;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-family: sans-serif;
+}

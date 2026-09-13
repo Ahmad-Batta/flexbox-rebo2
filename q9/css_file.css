@@ -1,0 +1,118 @@
+html,body{
+    height: 100%;
+    margin:0;
+    width:100%
+}
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    height: 100%;
+    border:gold solid 6px;
+    color:white;
+    font-size:60px;
+    width:100%;
+    
+}
+.box1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(26, 167, 120);
+    width: 32%;
+    height: 120px;
+    margin:5px 5px 5px 5px;
+    
+    
+
+}
+.box2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 140, 255);
+    width: 32%;
+    height: 120px;
+   margin:5px 5px 5px 5px;
+   
+}
+.box3{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(116, 2, 255);
+    width: 32%;
+    height: 120px;
+   margin:5px 5px 5px 5px;
+   
+}
+.box4{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(43, 163, 255);
+    width:32%;
+    height: 120px;
+    margin:0 5px 5px 5px;
+    
+}
+.box5{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    width: 32%;
+    height: 120px;
+    margin:0 5px 5px 5px;
+    
+}
+.box6{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 119, 183);
+    width: 32%;
+    height: 120px;
+    margin:0 5px 5px 5px;
+    
+}
+.box7{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(196, 255, 2);
+    width: 32%;
+    height: 120px;
+    margin:0 5px 5px 5px;
+   
+}
+.box8{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 192, 2);
+    width: 32%;
+    height: 120px;
+    margin:0 5px 5px 5px;
+  
+}
+.box9{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(2, 255, 137);
+    width: 32%;
+    height: 120px;
+    margin:0 5px 5px 5px;
+  
+}
+.box10{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(116, 2, 255);
+    width: 32%;
+    height: 120px;
+    margin:0 5px 5px 5px;
+  
+}
+
